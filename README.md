@@ -23,7 +23,7 @@
 12. [Limitations & Caveats](#-limitations--caveats)
 13. [Recommendations](#-recommendations)
 14. [How to Use This Repo](#-how-to-use-this-repo)
-15. [Team](#-team)
+15. [Author](#-author)
 16. [Acknowledgements & Disclaimer](#-acknowledgements--disclaimer)
 
 ---
@@ -234,6 +234,10 @@ The security cluster consumes over ₦5 trillion in recurrent spending alone —
 3. Use the **Year**, **Sector**, and **Ministry/Agency** slicers on any page to filter across all three report pages
 4. Raw datasets are available in `/data` for independent analysis or re-use (please credit The Data Refinery and cite the original sources: Budget Office of the Federation, BudgIT, PwC Nigeria)
 
+---
+## 👤 Author
+
+*(Yusuf Shotunde, LinkedIn: www.linkedin.com/in/yusuf-shotunde / GitHub: https://github.com/Yusinho/ / CV: https://github.com/Yusinho/my-portfolio/blob/main/Yusuf_Lanre_Shotunde_CV.pdf )*
 
 ---
 
