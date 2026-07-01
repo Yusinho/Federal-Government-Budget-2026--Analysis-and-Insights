@@ -1,4 +1,4 @@
-# 🇳🇬 The Big Picture: Nigeria's 2026 Federal Budget, Decoded
+# The Big Picture: Nigeria's 2026 Federal Budget, Decoded
 
 ### *"Paying for Yesterday with Tomorrow's Money — Where the Average Nigerian's Money Goes"*
 
