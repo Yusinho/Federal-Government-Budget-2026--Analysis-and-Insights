@@ -3,7 +3,7 @@
 ### *"Paying for Yesterday with Tomorrow's Money — Where the Average Nigerian's Money Goes"*
 
 **A Power BI Investigative Data Story | Simulated Client: Channels Television**
-**Produced by: The Data Refinery**
+**Produced by: Yusuf Shotunde*
 
 ---
 
@@ -46,7 +46,7 @@ We were handed:
 - A requirement to make the findings understandable to a non-technical, general audience
 - A simulated client (Channels Television) expecting a prime-time-ready data report
 
-No guided questions were provided. The analytical framing — deficit, debt burden, sectoral allocation, and the human cost of spending choices — was developed entirely by the team from first principles.
+No guided questions were provided. The analytical framing — deficit, debt burden, sectoral allocation, and the human cost of spending choices — was developed entirely by me from first principles.
 
 ---
 
